@@ -1,2 +1,2 @@
-# LetcodeProblemas
-Desarrollo de problemas de LetCode
+# LeetcodeProblemas
+Desarrollo de problemas de LeetCode
